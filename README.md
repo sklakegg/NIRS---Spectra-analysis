@@ -1,4 +1,4 @@
-# Near-infrared spectroscopy Spectra analysis
+# Near-infrared spectroscopy - Spectra analysis
 This script is used to load, preprocess and analyse NIRS spectra.
 
 ## Directory structure
