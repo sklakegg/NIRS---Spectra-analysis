@@ -4,7 +4,7 @@ library("caret")
 library("randomForest")
 library("ggplot2")
 
-dir_csvdata <- "/Users/Researcher/Google Drive/Documents/Forskning/2017 - NIR Medication/Scans v2/"
+dir_csvdata <- "/Path"
 conf_name <- "Default"
 sample_type <- "Pharmaceutical"
 int_configrows_remove <- 27
