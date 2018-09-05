@@ -14,7 +14,7 @@ The script expects the following directory structure (set **dir_csvdata** and **
 ## Data format
 The script expects the .csv files to use the format shown in the figure.
 
-**int_configrows_remove** variable in the scrit is set to 22 as seen from orange box.
+**int_configrows_remove** variable in the script is set to 22 as seen from orange box.
 
 **int_nwavelengths** is set based on the scan resolution (number of wavelengths).
 
